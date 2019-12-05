@@ -8,7 +8,7 @@ function tampilkanSemuaMenu() {
     });
 }
 
-tampilkanSemuaMenu();
+ tampilkanSemuaMenu();
 
 
 
